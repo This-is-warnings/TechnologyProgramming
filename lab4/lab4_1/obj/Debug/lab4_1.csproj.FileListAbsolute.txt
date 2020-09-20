@@ -1,0 +1,10 @@
+D:\SEMESTR4\TechProg\lab4\lab4_1\bin\Debug\lab4_1.exe.config
+D:\SEMESTR4\TechProg\lab4\lab4_1\bin\Debug\lab4_1.exe
+D:\SEMESTR4\TechProg\lab4\lab4_1\bin\Debug\lab4_1.pdb
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.csprojAssemblyReference.cache
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.Form1.resources
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.Properties.Resources.resources
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.csproj.GenerateResource.cache
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.exe
+D:\SEMESTR4\TechProg\lab4\lab4_1\obj\Debug\lab4_1.pdb

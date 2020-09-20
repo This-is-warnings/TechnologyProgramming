@@ -1,0 +1,7 @@
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\bin\Debug\Lab1_2.1.exe.config
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\bin\Debug\Lab1_2.1.exe
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\bin\Debug\Lab1_2.1.pdb
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\obj\Debug\Lab1_2.1.csprojAssemblyReference.cache
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\obj\Debug\Lab1_2.1.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\obj\Debug\Lab1_2.1.exe
+D:\SEMESTR4\TechProg\Lab1_2.1\Lab1_2.1\obj\Debug\Lab1_2.1.pdb
